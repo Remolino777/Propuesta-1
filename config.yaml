@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    javier:
+      email: r3mo-aws@gmail.com
+      name: javier hernandez
+      password: clave # will be hashed automatically 
+cookie:
+  expiry_days: 0
+  key: random_signature_key # Must be string
+  name: random_cookie_name
